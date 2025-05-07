@@ -1,0 +1,16 @@
+{
+    "name": "usuario/projeto",
+    "description": "Projeto de Estudos",
+    "autoload": {
+        "psr-4": {
+            "Projeto\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tadeu Raphael",
+            "email": "tadeu.raphael99@protonmail.com"
+        }
+    ],
+    "require": {}
+}
