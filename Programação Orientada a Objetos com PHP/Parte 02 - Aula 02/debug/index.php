@@ -5,4 +5,4 @@
     use Projeto\ContaBancaria;
 
     $conta = new ContaBancaria();
-    var_dump($conta);
+    var_dump($conta->banco);
